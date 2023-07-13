@@ -37,11 +37,17 @@ ul {
 }
 
 .hero-body {
-    padding: 50px 40px 125px; /* padding-top: 50px - padding-left&right: 40px - padding-bottom: 125px */
+    /* padding-top: 50px - padding-left&right: 40px - padding-bottom: 125px */
+    padding: 50px 40px 125px;
     margin: 32px 0;
     display: flex;
     justify-content: space-around;
     gap: 16px;
+}
+
+.hero-body-left {
+    flex-wrap: wrap;
+    width: 600px;
 }
 
 .hero-main {
