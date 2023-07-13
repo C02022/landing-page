@@ -7,7 +7,7 @@ body {
 
 /* STYLING FOR HERO/HEADER SECTION ELEMENTS */
 
-.hero {
+.hero-section {
     background-color: #1F2937;
 }
 
@@ -78,4 +78,19 @@ button {
 img {
     width: 600px;
     height: 300px;
+}
+
+/* ================================== */
+
+/* STYLING FOR INFORMATION SECTION ELEMENTS */
+
+.info-section {
+    text-align: center;
+}
+
+.info-header {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 800;
+    margin-bottom: 40px;
 }
