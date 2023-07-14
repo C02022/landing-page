@@ -10,4 +10,4 @@ in the Foundations Course of The Odin Project:
     - CSS Foundations 
     - Flexbox 
     
-Thank you!
+Thank you
