@@ -38,7 +38,7 @@ ul {
 
 .hero-body {
     /* padding-top: 50px - padding-left&right: 40px - padding-bottom: 125px */
-    padding: 50px 40px 140px;
+    padding: 50px 130px 140px;
     margin: 32px 0;
     display: flex;
     justify-content: space-around;
@@ -46,14 +46,17 @@ ul {
 }
 
 .hero-body-left {
+    padding-left: 115px;
     flex-wrap: wrap;
-    width: 600px;
+    max-width: 450px;
+    margin-right: -50px;
 }
 
 .hero-main {
     color: #f9faf8;
     font-size: 48px;
     font-weight: 800; 
+    flex-wrap: wrap;
 }
 
 .hero-secondary {
@@ -76,8 +79,9 @@ button {
 }
 
 img {
-    width: 800px;
-    height: 500px;
+    width: 600px;
+    height: 300px;
+    padding-right: 120px;
 }
 
 /* ================================== */
@@ -103,17 +107,17 @@ img {
 }
 
 .info {
-    max-width: 500px;
+    max-width: 200px;
 }
 
 .info > img {
-    width: 400px;
-    height: 400px;
+    width: 200px;
+    height: 200px;
     border-radius: 25px;
 }
 
 .info-text {
-    font-size: 26px;
+    font-size: 20px;
 }
 
 /* ================================== */
@@ -149,3 +153,8 @@ img {
     align-self: flex-end;
     padding-right: 35px;
 }
+
+/* ================================== */
+
+/* STYLING FOR ACTION SECTION ELEMENTS */
+
