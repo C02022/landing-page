@@ -171,7 +171,7 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 130px;
+    padding: 120px;
 }
 
 .action-container {
@@ -179,7 +179,24 @@ img {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 40px 100px;
+    padding: 50px 150px;
+    border-radius: 13px;
+    gap: 25px;
+}
+
+.action-body-left {
+    margin-right: 200px;
+}
+
+.action-heading {
+    color: #E5E7EB;
+    font-weight: 900;
+    font-size: 24px;
+}
+
+.action-description {
+    color: #E5E7EB;
+    font-size: 18px;
 }
 
 .bordered-button {
