@@ -70,12 +70,21 @@ button {
     font-family: Roboto, sans-serif;
     font-weight: 800; 
     font-size: 16px;
-    color: hsl(0, 0%, 100%);
+    color: #ffffff;
     background-color: #3882F6;
-    border: none;
+    /* border: none; */
+    /* border-color: #ffffff;   */
     border-radius: 8px;
     padding: 8px 35px;
     cursor: pointer;
+}
+
+.borderless-button {
+    border: none;
+}
+
+.borderless-button:hover {
+    background-color: midnightblue;
 }
 
 img {
@@ -157,4 +166,28 @@ img {
 /* ================================== */
 
 /* STYLING FOR ACTION SECTION ELEMENTS */
+
+.action-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 130px;
+}
+
+.action-container {
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 40px 100px;
+}
+
+.bordered-button {
+    border: solid #ffffff;
+}
+
+.bordered-button:hover {
+    background-color: midnightblue;
+    border-color: midnightblue;
+}
 
