@@ -11,3 +11,14 @@ in the Foundations Course of The Odin Project:
     - Flexbox 
     
 Thank you!
+
+-----------
+
+Credit for images used in landing page design goes to...
+
+Daniel Nettesheim !!
+
+Contact info:
+
+    - Instagram: https://instagram.com/dajolimaison
+    - Pexels: https://www.pexels.com/@jolimaison/
