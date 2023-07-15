@@ -137,8 +137,7 @@ img {
 .quote-text {
     color: #1F2937;
     font-size: 36px;
-    font-weight: 300;
-    /* <-- Light Weight */
+    font-weight: 300; /* <-- Light Weight */
     font-style: italic;
     flex-wrap: wrap;
     margin-bottom: 16px;
