@@ -2,6 +2,8 @@
 
 The landing page design is based off of this given image here: https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png 
 
+The landing page also uses the following color and font styles guide here: https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/02.png
+
 I'm currently starting this project after completing the following sections 
 in the Foundations Course of The Odin Project: 
 
