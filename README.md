@@ -1,4 +1,4 @@
-# This project is a simple landing page layout built using HTML & CSS (Flexbox) 
+# A simple landing page layout built using HTML & CSS (Flexbox) 
 
 Live Link to Project: https://c02022.github.io/odin-landing-page/
 
